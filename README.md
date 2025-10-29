@@ -23,13 +23,14 @@ O jogo segue **todas as regras oficiais** do xadrez, incluindo xeque, xeque-mate
 ## 🖥️ Demonstração no Console
 
   
-8 t c b d r b c t 
-7 p p p p p p p p 
-6 . . . . . . . . 
-5 . . . . . . . . 
-4 . . . . . . . . 
-3 . . . . . . . . 
-2 P P P P P P P P 
-1 T C B D R B C T 
-  a b c d e f g h
+a b c d e f g h
+8 t c b d r b c t 8
+7 p p p p p p p p 7
+6 . . . . . . . . 6
+5 . . . . . . . . 5
+4 . . . . . . . . 4
+3 . . . . . . . . 3
+2 P P P P P P P P 2
+1 T C B D R B C T 1
+a b c d e f g h
 
